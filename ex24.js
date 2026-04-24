@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-console.log("----- Cáuculo de potencia----");
+console.log("----- Cáuculo de Raiz ----");
 
 let Raio = Number(prompt("Insira um valor: "));
 let ELV = Number(prompt("insira o expoente: "))

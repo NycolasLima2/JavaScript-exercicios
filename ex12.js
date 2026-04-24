@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-console.log("----- Cáuculo de Volume de uma caixa -----");
+console.log("----- Conversão de dinheiro 2 -----");
 
 let Vr = (prompt("Insia o valor em Reais: "));
 

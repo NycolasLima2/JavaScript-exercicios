@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-console.log("----- Cáuculo da Area de um circulo-----");
+console.log("----- Cáuculo de Volume de uma caixa -----");
 
 let Raio = Number(prompt("Insira um valor: "));
 

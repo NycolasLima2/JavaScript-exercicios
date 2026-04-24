@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-console.log("----- Cáuculo de Volume de uma caixa -----");
+console.log("----- Cáuculo da soma do quadrado de 3 numeros -----");
 
 let V1 = (prompt("Insira um valor: "));
 let V2 = (prompt("Insira um valor: "));

@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-console.log("----- Cáuculo de potencia----");
+console.log("----- Cáuculo de volume da esfera----");
 
 let Raio = Number(prompt("Insira o valor do raio: "));
 

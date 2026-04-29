@@ -8,7 +8,7 @@ if(isNaN(V1)){
     console.log("erro de execução. insira um numero");
 }else{
 
-if(V1 / 3 === 0 && V1 / 5 === 0){
+if(V1 % 3 === 0 && V1 % 5 === 0){
     console.log(`${V1}`);
 }
 

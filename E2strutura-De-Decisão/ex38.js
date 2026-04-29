@@ -2,7 +2,7 @@ const prompt = require('prompt-sync')();
 
 console.log("--- valor menor ou igual a 3 ");
 
-const V1 = Number(prompt("insira um valor: "));
+let V1 = Number(prompt("insira um valor: "));
 
 if(isNaN(V1)){
     console.log("erro: não tem apenas numeros");
@@ -11,7 +11,7 @@ if(isNaN(V1)){
 if(V1 <= 3){
    console.log(`${V1}`); 
 }else{
-    console.log("      ");
+
 }
 
 

@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-console.log("--- Maior e Menor ---");
+console.log("--- par ou impar ---");
 const V1 = Number(prompt("insira um numero: "));
 
 if(isNaN(V1)){
